@@ -37,7 +37,7 @@ Cinema 4D will function in a self-contained state with no dependency on cloud se
 ![Timeline Animation Panel](https://www3.technologyevaluation.com/getattachment/e679cf81-8a15-4e0d-92c8-0f08151fa356/cinema4d-3dmodeling-robert-downey-jr-as-tony-startk-in-cinema4d-timeline.png?lang=en-US&source=tw2)  
 *Character animation and timeline view inside the editor*
 
-![Material & Layout Tools](https://www.provideocoalition.com/wp-content/uploads/cinema4dr21_000-1024x800.jpg)  
+![Material & Layout Tools](https://postperspective.com/wp-content/uploads/2020/04/Cinema-4D-S22_Features_Viewport-Improvements_3_Hair.png)  
 *Material editor and layout components in use during modeling*
 
 ---
